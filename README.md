@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Live demo: https://procodes27.github.io/portfolio-website/
+Live demo: https://prinse27.github.io/portfolio-website/
 
 A clean, responsive personal portfolio website to showcase projects, skills, and contact information. This repository contains the static site files (HTML, CSS, JavaScript, and assets) that power the GitHub Pages demo above.
 
@@ -19,7 +19,7 @@ A clean, responsive personal portfolio website to showcase projects, skills, and
 ## Preview / Local development
 Option 1 — Open locally:
 1. Clone the repo:
-   git clone https://github.com/procodes27/portfolio-website.git
+   git clone https://github.com/prinse27/portfolio-website.git
 2. Open `index.html` in your browser.
 
 Option 2 — Use a simple local server (recommended):
@@ -38,7 +38,7 @@ This will open a local dev server and refresh automatically on changes.
 ## Deploy (GitHub Pages)
 This repository is configured to serve a static site via GitHub Pages.
 - Push changes to the `main` branch (or the branch configured in repository settings).
-- The site will be available at: https://procodes27.github.io/portfolio-website/
+- The site will be available at: https://prinse27.github.io/portfolio-website/
 
 To use a custom domain, add a `CNAME` file with your domain and update DNS records with your registrar.
 
@@ -49,5 +49,5 @@ Contributions are welcome. Open a pull request to propose changes (fixes, new pr
 Add a LICENSE file if you want to apply an open-source license (MIT is a common choice).
 
 ## Contact
-- GitHub: https://github.com/procodes27
-- Site: https://procodes27.github.io/portfolio-website/
+- GitHub: https://github.com/prinse27
+- Site: https://prinse27.github.io/portfolio-website/
